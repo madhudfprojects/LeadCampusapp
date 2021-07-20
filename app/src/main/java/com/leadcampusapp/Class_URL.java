@@ -8,6 +8,7 @@ public class Class_URL
 {
     public String packagename="com.leadcampusapp.";
 
+
    /*public static String URL_Login ="http://mis.leadcampus.org/leadws/Login.asmx?WSDL";
 
     public static String URL_Projects ="http://mis.leadcampus.org/leadws/Projectsws.asmx?WSDL";
